@@ -5,6 +5,7 @@ This application was created using example prompts from the following website.
 Prompt text from: https://thepracticetest.com/typing/tests/practice-paragraphs/
 
 To calculate the net and gross WPM along with accuracy, I used the following resource. Although the outputted results look good, forumalas can be tweeked in code to modify the test's results.
+
 WPM and accuracy formulas from:  https://www.typingtyping.com/wpm-calculator/
 
 Length of the four prompts used for tests in this application.
