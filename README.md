@@ -10,7 +10,11 @@ To calculate the net and gross WPM along with accuracy, I used the following res
 WPM and accuracy formulas from:  https://www.typingtyping.com/wpm-calculator/
 
 Length of the four prompts used for tests in this application.
+
 Test 1 total words - 203
+
 Test 2 total words - 194
+
 Test 3 total words - 187
+
 Test 4 total words - 175
