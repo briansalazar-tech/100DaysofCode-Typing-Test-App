@@ -1,4 +1,4 @@
-# 100 Days of Code Day 94: Dinosaur Game Automation
+# 100 Days of Code Day 86: TKinter Typing Speed Test Application
 ![Screenshot of typing test in progress](<screenshots/App - text in progress.png>)
 ## Introduction
 This project is day 86 of the 100 Days of Code course. For today's goal, the goal was to create a Tkinter typing test application.
